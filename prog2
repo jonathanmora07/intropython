@@ -1,0 +1,23 @@
+import math, es 
+
+
+os.system("cls")
+print("----GruposICO201-9, ICO201-14----")
+      
+      
+      
+      
+num1=input("ingrese el primer numero: ")
+num2=input("ingrese el segundo numero: ")
+
+suma=int(num1)+int(num2)
+print("La suma es: ", suma)
+
+print("operaciones basicas:\n1.- Suma\n2.- Resta\n3.- Multiplicacion\n4.- Division\n")
+
+opcion=input("ingresa la opcion a realizar (1\2\3\4):")
+
+
+...
+
+
